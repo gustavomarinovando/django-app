@@ -1,0 +1,27 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "editor.semanticHighlighting.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.cursorBlinking": "blink",
+    "editor.folding": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.minimap.enabled": false,
+    "editor.occurrencesHighlight": false,
+    "editor.roundedSelection": false,
+    "editor.selectionHighlight": false,
+    "editor.scrollBeyondLastLine": false,
+    "explorer.decorations.colors": false,
+    "explorer.openEditors.visible": 0,
+    "window.zoomLevel": 0,
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showIcons": false,
+    "workbench.startupEditor": "none",
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.matchBrackets": "never",
+    "subtleBrackets.style": {
+        "borderWidth": "1px",
+        "borderColor": "#528BFF"
+    }
+}
